@@ -1,0 +1,12 @@
+streamlit
+pandas
+scikit-learn
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+requests
+streamlit-authenticator
+plotly
+numpy
+sentry-sdk
+wbdata
